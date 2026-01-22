@@ -66,13 +66,10 @@
 
 ## 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/rajsirsode/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn Raj Sirsode](https://img.shields.io/badge/LINKEDIN-RAJ%20SIRSODE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsirsode/)
 
-<a href="https://github.com/SirsodeRaj" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+[![GitHub SirsodeRaj](https://img.shields.io/badge/GITHUB-SIRSODERaj-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirsodeRaj)
+
 
 ---
 
