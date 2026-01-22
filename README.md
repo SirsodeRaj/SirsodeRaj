@@ -66,6 +66,8 @@
 
 ## 🔗 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-SIRSODERaj-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sirsoderaj.github.io)
+
 [![LinkedIn Raj Sirsode](https://img.shields.io/badge/LINKEDIN-RAJ%20SIRSODE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajsirsode/)
 
 [![GitHub SirsodeRaj](https://img.shields.io/badge/GITHUB-SIRSODERaj-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirsodeRaj)
