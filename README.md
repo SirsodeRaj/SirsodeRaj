@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-SirsodeRaj-534AB7?style=for-the-badge)](https://sirsoderaj.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-SirsodeRaj-534AB7?style=for-the-badge)](https://sirsode-raj-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj_Sirsode-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajsirsode/)
 [![GitHub](https://img.shields.io/badge/GitHub-SirsodeRaj-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SirsodeRaj)
 
@@ -113,7 +113,7 @@ Java-based CRUD system using OOP concepts.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-534AB7?style=for-the-badge)](https://sirsoderaj.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-534AB7?style=for-the-badge)](https://sirsode-raj-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajsirsode/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SirsodeRaj)
 
